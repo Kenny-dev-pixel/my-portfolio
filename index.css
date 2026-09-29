@@ -1,0 +1,13 @@
+.calender{
+    width: 60vw;
+    height: 70vh;
+    background-color: darkblue;
+}
+
+.calender th{
+    border: 3px blue solid;
+}
+
+.calender td{
+    border: blue solid;
+}
